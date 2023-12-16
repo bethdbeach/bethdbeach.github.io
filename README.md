@@ -1,7 +1,1 @@
-# BDF 
-
-#### Education
-
-### Experience 
-
 ### Projects 
