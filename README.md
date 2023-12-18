@@ -8,10 +8,15 @@
 - Analysis of aviation accident data with a focus on the state of Alaska
 - <p class="view"><a href="https://github.com/bethdfuller/AviationAccidentDataAnalysis">GitHub Repository to Alaska Aviation Accident Data Analysis</a></p>
 ![Aviation1](/assets/AviationImage1.png)
-![Aviation2](/assets/AviationImage2.png)
+![Aviation2](/assets/AviationImage2.jpg)
 ![Aviation3](/assets/AviationImage3.png)
 ![Aviation4](/assets/AviationImage4.png)
 ![Aviation5](/assets/AviationImage5.png)
+
+**Girdwood Gear Exchange - wwww.girdwoodgearexchange.com**
+- Built initial business website in HTML and CSS. Recently migrated website to Square for better business functionality, sales channels and maintinability for owner.
+- <p class="view"><a href="https://girdwoodgearexchange.com/">wwww.GirdwoodGearExchange.com</a></p>
+![Girdwood1](/assets/GirdwoodGearExchange1.png)
 
 **Schedule Application**
 - The application is a GUI-based appointment schedule program created with Java with a database connection. Highlights: Database functionality, Customers, Appointments, Reporting functionality, Date/Time (UTC in database, local for users)
