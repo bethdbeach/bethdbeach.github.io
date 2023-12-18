@@ -1,4 +1,4 @@
-###Aspiring Data Scientist 
+# Aspiring Data Scientist 
 
 ## Education 
 
