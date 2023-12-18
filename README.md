@@ -4,8 +4,8 @@
 - B.S., Computer Science | 2020 - 2023 
 
 ## Projects 
-**Aviation Accident Data Analysis 
+** Aviation Accident Data Analysis 
 
-**Schedule Application
+** Schedule Application
 
-**Inventory Management System 
+** Inventory Management System 
