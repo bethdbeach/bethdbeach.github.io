@@ -1,3 +1,5 @@
+###Aspiring Data Scientist 
+
 ## Education 
 
 - M.S., Data Analytics (2023 - present) 
