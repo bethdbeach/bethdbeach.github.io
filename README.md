@@ -5,10 +5,13 @@
 
 ## Projects 
 **Aviation Accident Data Analysis**
-<br>-notes
+- notes
 
 **Schedule Application**
-<br>-notes
+- notes
 
 **Inventory Management System**
-<br>-notes
+- The application is a GUI-based inventory management program created with Java.
+- <p class="view"><a href="https://github.com/bethdfuller/Inventory)https://github.com/bethdfuller/Inventory">GitHub Repository to Inventory Management System</a></p>
+![Inventory1](/assets/InventoryImage1.png)
+![Inventory2](/assets/InventoryImage2.png)
