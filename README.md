@@ -9,11 +9,13 @@
 **Aviation Accident Data Analysis, 2023**
 - Analysis of aviation accident data with a focus on the state of Alaska
 - <p class="view"><a href="https://github.com/bethdfuller/AviationAccidentDataAnalysis">GitHub Repository to Alaska Aviation Accident Data Analysis</a></p>
-![Aviation1](/assets/AviationImage1.png)
-![Aviation2](/assets/AviationImage2.jpg)
-![Aviation3](/assets/AviationImage3.png)
-![Aviation4](/assets/AviationImage4.png)
-![Aviation5](/assets/AviationImage5.png)
+![Aviation1](/assets/A7.png)
+![Aviation1](/assets/A6.png)
+![Aviation1](/assets/A1.png)
+![Aviation1](/assets/A2.png)
+![Aviation1](/assets/A3.png)
+![Aviation1](/assets/A4.png)
+![Aviation1](/assets/A5.png)
 
 **Girdwood Gear Exchange - wwww.girdwoodgearexchange.com, 2023**
 - Built initial business website in HTML and CSS in June 2023. In November 2023 migrated website to Square for better business functionality, sales channels and maintinability for owner.
