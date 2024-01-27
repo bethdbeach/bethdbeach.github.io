@@ -1,9 +1,13 @@
-# Aspiring Data Scientist 
+# Aspiring Data Person 
 
 ## Education 
 
 - M.S., Data Analytics (2023 - present) 
-- B.S., Computer Science (2020 - 2023) 
+- B.S., Computer Science (2020 - 2023)
+
+## Certifications 
+- CompTIA Project+, July 2021
+- ITIL Foundation Certificate in IT Service Management, December 2021
 
 ## Projects 
 **Aviation Accident Data Analysis, 2023**
