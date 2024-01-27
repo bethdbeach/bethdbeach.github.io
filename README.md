@@ -1,4 +1,4 @@
-# Aspiring Data Person 
+# Aspiring Data Scientist
 
 ## Education 
 
