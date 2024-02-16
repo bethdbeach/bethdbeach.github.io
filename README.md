@@ -15,7 +15,7 @@
 -Principal Component Analysis performed
 ![D2061](/assets/D2064.png)
 ![D2062](/assets/D2062.png)
-![D2063](/assets/D2061.png)
+![D2063](/assets/D206.png)
 ![D2064](/assets/D2063.png)
 
 **Aviation Accident Data Analysis, 2023**
