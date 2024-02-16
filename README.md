@@ -11,8 +11,8 @@
 
 ## Projects 
 **Data Cleaning for MSDA, 2024**
--Cleaning of CSV file that contained missing values, outliers, wrong data types, etc. 
--Principal Component Analysis performed
+- Cleaning of CSV file that contained missing values, outliers, wrong data types, etc. 
+- Principal Component Analysis performed
 ![D2061](/assets/D2064.png)
 ![D2062](/assets/D2062.png)
 ![D2063](/assets/D206.png)
