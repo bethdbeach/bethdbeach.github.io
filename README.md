@@ -10,6 +10,14 @@
 - ITIL Foundation Certificate in IT Service Management, December 2021
 
 ## Projects 
+**Data Cleaning for MSDA, 2024**
+-Cleaning of CSV file that contained missing values, outliers, wrong data types, etc. 
+-Principal Component Analysis performed
+![D2061](/assets/D2064.png)
+![D2062](/assets/D2062.png)
+![D2063](/assets/D2061.png)
+![D2064](/assets/D2063.png)
+
 **Aviation Accident Data Analysis, 2023**
 - Analysis of aviation accident data with a focus on the state of Alaska
 - <p class="view"><a href="https://github.com/bethdfuller/AviationAccidentDataAnalysis">GitHub Repository to Alaska Aviation Accident Data Analysis</a></p>
