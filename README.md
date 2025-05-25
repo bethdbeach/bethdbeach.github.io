@@ -1,7 +1,7 @@
 # Data Person
 
 ## Employment 
--Fed Government (2023 - Present)
+-Federal Government (2023 - Present)
 
 ## Education 
 
