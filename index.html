@@ -3,40 +3,80 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Beth Beach</title>
+  <title>beth beach</title>
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap" rel="stylesheet">
+
   <style>
-    /* Reset some default spacing */
     body, h1, h2, p, ul {
       margin: 0;
       padding: 0;
+      text-transform: lowercase; /* all text lowercase */
     }
 
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-family: 'Cutive Mono', monospace;
       line-height: 1.6;
       color: #333;
     }
 
-    header {
+    /* Top section */
+    .top-section {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      margin: 5rem 1rem; /* increased spacing */
+      gap: 2rem;
+    }
+
+    .top-section img {
+      width: 160px;
+      height: 220px; /* vertical rectangle */
+      border-radius: 0px; 
+      object-fit: cover;
+    }
+
+    .top-section .info p {
+      margin: 0.25rem 0;
+    }
+
+    .top-section .name {
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+
+    .top-section .place {
+      font-size: 1.5rem; 
+      font-weight: bold;
+    }
+
+    .top-section .email {
+      text-decoration: none; 
+      color: #333;           
+      font-weight: normal;
+      font-size: 1.5rem;
+    }
+
+    /* Nav bar */
+    nav {
       position: sticky;
       top: 0;
       background: #fff;
-      padding: 1rem;
       border-bottom: 1px solid #ddd;
       z-index: 1000;
       text-align: center;
-    }
-
-    header h1 {
-      font-size: 2rem;
-      margin-bottom: 0.5rem;
+      margin-top: 3rem; /* space below top section */
     }
 
     nav ul {
       list-style: none;
       display: flex;
       justify-content: center;
-      gap: 1.5rem;
+      gap: 2rem;
+      padding: 1rem 0;
     }
 
     nav a {
@@ -44,7 +84,7 @@
       color: #333;
       font-weight: 500;
       padding: 0.25rem 0.5rem;
-      transition: color 0.3s, background 0.3s;
+      transition: color 0.3s, border 0.3s;
     }
 
     nav a:hover {
@@ -56,18 +96,7 @@
       color: #0073e6;
     }
 
-    .profile {
-      text-align: center;
-      margin: 2rem 0;
-    }
-
-    .profile img {
-      width: 180px;
-      height: 180px;
-      border-radius: 50%;
-      object-fit: cover;
-    }
-
+    /* Section styling */
     section {
       padding: 4rem 1rem;
       max-width: 800px;
@@ -88,40 +117,47 @@
 </head>
 <body>
 
-  <header>
-    <h1>Beth Beach</h1>
-    <nav>
-      <ul>
-        <li><a href="#experience">Experience</a></li>
-        <li><a href="#education">Education</a></li>
-        <li><a href="#projects">Projects</a></li>
-        <li><a href="#visualizations">Visualizations</a></li>
-      </ul>
-    </nav>
-  </header>
-
-  <div class="profile">
-    <img src="assets/bethbeach.jpeg" alt="Beth Beach profile picture">
+  <!-- Top Section -->
+  <div class="top-section">
+    <img src="assets/bethbeach.jpeg" alt="beth beach profile picture">
+    <div class="info">
+      <p class="name">beth beach</p>
+      <p class="place">alaska</p>
+      <p><a href="mailto:bethdfuller@gmail.com" class="email">bethdfuller@gmail.com</a></p>
+    </div>
   </div>
 
+  <!-- Nav Bar -->
+  <nav>
+    <ul>
+      <li><a href="#experience">experience</a></li>
+      <li><a href="#education">education</a></li>
+      <li><a href="#projects">projects</a></li>
+      <li><a href="#visualizations">visualizations</a></li>
+    </ul>
+  </nav>
+
+  <!-- Sections -->
   <section id="experience">
-    <h2>Experience</h2>
-    <p>Details about your work experience go here.</p>
+    <h2>experience</h2>
+    <p><li><strong>data engineer:</strong> government, 2024–present</li></p>
+    <p><li><strong>flight attendant:</strong> 2016-2024</li></p>
   </section>
 
   <section id="education">
-    <h2>Education</h2>
-    <p>Details about your academic background go here.</p>
+    <h2>education</h2>
+    <p><li><strong>M.S., Data Analytics: </strong>2023-2024</li></p>
+    <p><li><strong>B.S., Computer Science: </strong>2020-2023</li></p>
   </section>
 
   <section id="projects">
-    <h2>Projects</h2>
-    <p>Showcase your data science and analytics projects here.</p>
+    <h2>projects</h2>
+    <p>coming soon!</p>
   </section>
 
   <section id="visualizations">
-    <h2>Visualizations</h2>
-    <p>Highlight dashboards, Tableau, and visualizations here.</p>
+    <h2>visualizations</h2>
+    <p>also...coming soon!</p>
   </section>
 
   <script>
@@ -148,5 +184,6 @@
       });
     });
   </script>
+
 </body>
 </html>
